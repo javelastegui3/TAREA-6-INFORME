@@ -1,5 +1,6 @@
 # TAREA-6-INFORME
 1. OBJETIVOS
+
 1.1 Objetivo General
 
 Identificar una forma de onda sinusoidal y medir sus características analizando cómo se generan las ondas seno. Estudiar caracteristicas basicas de los capacitores y aplicaciones del mismo.
