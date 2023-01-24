@@ -15,7 +15,7 @@ Comprender sobre la corriente y el voltaje alterno en circuitos eléctricos y a 
 
 2. MARCO TEORICO
 
-
+[![image.png](https://i.postimg.cc/7hq2Zf8V/image.png)](https://postimg.cc/8Jn5ykCJ)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
